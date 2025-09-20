@@ -16,6 +16,8 @@
           "args": true
         }
       ]
-    }
+    },
+    "sql:default",
+    "sql:allow-execute"
   ]
 }
