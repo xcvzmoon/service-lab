@@ -12,6 +12,6 @@
 
 @layer base {
   body {
-    @apply font-mono select-none;
+    @apply select-none;
   }
 }

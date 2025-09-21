@@ -35,4 +35,10 @@ export default defineNuxtConfig({
     preference: 'dark',
     fallback: 'dark',
   },
+
+  runtimeConfig: {
+    public: {
+      defaultRoute: '',
+    },
+  },
 });
